@@ -5,10 +5,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using System;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet
 {
-    using System;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Controls the behavior of the meshing software.

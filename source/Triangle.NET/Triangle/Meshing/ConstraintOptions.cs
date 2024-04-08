@@ -1,5 +1,5 @@
 ﻿
-namespace TriangleNet.Meshing
+namespace sc.trianglenet.Meshing
 {
     /// <summary>
     /// Mesh constraint options for polygon triangulation.

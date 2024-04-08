@@ -4,9 +4,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Logging
+using System;
+
+namespace sc.trianglenet.Logging
 {
-    using System;
 
     /// <summary>
     /// Represents an item stored in the log.

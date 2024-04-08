@@ -5,13 +5,14 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Voronoi.Legacy
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Tools;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Voronoi.Legacy
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
-    using TriangleNet.Tools;
 
     /// <summary>
     /// The Voronoi Diagram is the dual of a pointset triangulation.

@@ -4,10 +4,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.IO
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.IO
 {
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Simple triangle class for input.

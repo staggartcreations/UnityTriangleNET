@@ -5,15 +5,16 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Voronoi
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+using sc.trianglenet.Topology.DCEL;
+using Vertex = sc.trianglenet.Topology.DCEL.Vertex;
+
+namespace sc.trianglenet.Voronoi
 {
-    using System.Collections.Generic;
 
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
-    using TriangleNet.Topology.DCEL;
-
-    using Vertex = TriangleNet.Topology.DCEL.Vertex;
+    using Vertex = Vertex;
 
     /// <summary>
     /// The Voronoi diagram is the dual of a pointset triangulation.
@@ -133,7 +134,7 @@ namespace TriangleNet.Voronoi
         protected void ComputeEdges(Mesh mesh, Vertex[] vertices, Face[] faces, List<HalfEdge>[] map)
         {
             Otri tri, neighbor = default(Otri);
-            TriangleNet.Geometry.Vertex org, dest;
+            Geometry.Vertex org, dest;
 
             double px, py;
             int id, nid, count = mesh.triangles.Count;

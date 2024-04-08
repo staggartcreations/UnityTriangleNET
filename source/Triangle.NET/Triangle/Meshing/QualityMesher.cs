@@ -5,15 +5,16 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Meshing
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Logging;
+using sc.trianglenet.Meshing.Data;
+using sc.trianglenet.Tools;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Meshing
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
-    using TriangleNet.Logging;
-    using TriangleNet.Meshing.Data;
-    using TriangleNet.Tools;
-    using TriangleNet.Topology;
 
     /// <summary>
     /// Provides methods for mesh quality enforcement and testing.

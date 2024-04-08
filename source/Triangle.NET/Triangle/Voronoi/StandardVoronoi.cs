@@ -4,12 +4,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Voronoi
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Tools;
+
+namespace sc.trianglenet.Voronoi
 {
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
-    using TriangleNet.Tools;
-    using TriangleNet.Topology.DCEL;
 
     public class StandardVoronoi : VoronoiBase
     {

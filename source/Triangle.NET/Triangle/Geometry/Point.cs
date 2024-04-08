@@ -4,10 +4,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Geometry
+using System;
+using System.Diagnostics;
+
+namespace sc.trianglenet.Geometry
 {
-    using System;
-    using System.Diagnostics;
 
     /// <summary>
     /// Represents a 2D point.
@@ -19,13 +20,13 @@ namespace TriangleNet.Geometry
 #endif
     public class Point : IComparable<Point>, IEquatable<Point>
     {
-        internal int id;
+        public int id;
         internal int label;
 
-        internal double x;
-        internal double y;
+        public double x;
+        public double y;
 #if USE_Z
-        internal double z;
+        public double z;
 #endif
 
         public Point()

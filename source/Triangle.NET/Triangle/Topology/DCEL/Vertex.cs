@@ -4,11 +4,13 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Topology.DCEL
-{
-    using System.Collections.Generic;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
 
-    public class Vertex : TriangleNet.Geometry.Point
+namespace sc.trianglenet.Topology.DCEL
+{
+
+    public class Vertex : Point
     {
         internal HalfEdge leaving;
 

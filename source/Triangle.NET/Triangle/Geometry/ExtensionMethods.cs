@@ -1,8 +1,7 @@
-﻿
-namespace TriangleNet.Geometry
+﻿using sc.trianglenet.Meshing;
+
+namespace sc.trianglenet.Geometry
 {
-    using System;
-    using TriangleNet.Meshing;
 
     public static class ExtensionMethods
     {

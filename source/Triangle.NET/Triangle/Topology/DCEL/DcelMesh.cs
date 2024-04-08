@@ -4,10 +4,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Topology.DCEL
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Topology.DCEL
 {
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
 
     public class DcelMesh
     {

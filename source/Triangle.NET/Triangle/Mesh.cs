@@ -5,17 +5,18 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Logging;
+using sc.trianglenet.Meshing;
+using sc.trianglenet.Meshing.Data;
+using sc.trianglenet.Meshing.Iterators;
+using sc.trianglenet.Tools;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
-    using TriangleNet.Logging;
-    using TriangleNet.Meshing;
-    using TriangleNet.Meshing.Data;
-    using TriangleNet.Meshing.Iterators;
-    using TriangleNet.Tools;
-    using TriangleNet.Topology;
 
     /// <summary>
     /// Mesh data structure.
@@ -36,9 +37,9 @@ namespace TriangleNet
         // TODO: Check if custom hashmap implementation could be faster.
 
         // Using hashsets for memory management should quite fast.
-        internal TrianglePool triangles;
+        public TrianglePool triangles;
         internal Dictionary<int, SubSegment> subsegs;
-        internal Dictionary<int, Vertex> vertices;
+        public Dictionary<int, Vertex> vertices;
 
         // Hash seeds (should belong to mesh instance)
         internal int hash_vtx = 0;

@@ -1,7 +1,8 @@
 ﻿
-namespace TriangleNet.Meshing
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Meshing
 {
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Interface for polygon triangulation.

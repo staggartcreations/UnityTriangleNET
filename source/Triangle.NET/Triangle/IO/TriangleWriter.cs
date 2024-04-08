@@ -5,13 +5,14 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.IO
+using System.Collections.Generic;
+using System.Globalization;
+using System.IO;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.IO
 {
-    using System.Collections.Generic;
-    using System.Globalization;
-    using System.IO;
-    using TriangleNet.Geometry;
-    using TriangleNet.Topology;
 
     /// <summary>
     /// Helper methods for writing Triangle file formats.

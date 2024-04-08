@@ -4,10 +4,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using System.Collections.Generic;
+using sc.trianglenet.Logging;
+
+namespace sc.trianglenet
 {
-    using System.Collections.Generic;
-    using TriangleNet.Logging;
 
     /// <summary>
     /// A simple logger, which logs messages to a List.

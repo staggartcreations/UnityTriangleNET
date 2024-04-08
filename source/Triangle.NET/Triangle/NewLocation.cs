@@ -5,12 +5,13 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using System;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Tools;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet
 {
-    using System;
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
-    using TriangleNet.Tools;
 
     /// <summary>
     /// Find new Steiner point locations.

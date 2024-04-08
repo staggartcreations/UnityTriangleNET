@@ -4,12 +4,13 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.IO
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Meshing;
+
+namespace sc.trianglenet.IO
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
-    using TriangleNet.Meshing;
 
     public static class FileProcessor
     {

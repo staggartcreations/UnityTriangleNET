@@ -4,7 +4,7 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Geometry
+namespace sc.trianglenet.Geometry
 {
     public interface IEdge
     {

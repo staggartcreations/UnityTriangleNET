@@ -4,9 +4,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Smoothing
+using sc.trianglenet.Meshing;
+
+namespace sc.trianglenet.Smoothing
 {
-    using TriangleNet.Meshing;
 
     /// <summary>
     /// Interface for mesh smoothers.

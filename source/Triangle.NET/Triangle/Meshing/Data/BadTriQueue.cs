@@ -5,10 +5,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Meshing.Data
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Meshing.Data
 {
-    using TriangleNet.Geometry;
-    using TriangleNet.Topology;
 
     /// <summary>
     /// A (priority) queue for bad triangles.

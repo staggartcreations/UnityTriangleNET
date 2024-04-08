@@ -5,9 +5,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Tools
+using System;
+
+namespace sc.trianglenet.Tools
 {
-    using System;
 
     /// <summary>
     /// Applies the Cuthill and McKee renumbering algorithm to reduce the bandwidth of

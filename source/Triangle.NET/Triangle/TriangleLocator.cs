@@ -5,10 +5,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet
 {
-    using TriangleNet.Geometry;
-    using TriangleNet.Topology;
 
     /// <summary>
     /// Locate triangles in a mesh.

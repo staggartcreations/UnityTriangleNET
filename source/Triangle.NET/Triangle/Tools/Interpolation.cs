@@ -1,7 +1,8 @@
 ﻿
-namespace TriangleNet.Tools
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Tools
 {
-    using TriangleNet.Geometry;
 
     public static class Interpolation
     {

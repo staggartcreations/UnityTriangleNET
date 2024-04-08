@@ -1,0 +1,6 @@
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Release\Triangle.dll
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Release\Triangle.pdb
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\obj\Release\Triangle.dll
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\obj\Release\Triangle.pdb
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\obj\Release\Triangle.csproj.AssemblyReference.cache
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\obj\Release\Triangle.csproj.CoreCompileInputs.cache

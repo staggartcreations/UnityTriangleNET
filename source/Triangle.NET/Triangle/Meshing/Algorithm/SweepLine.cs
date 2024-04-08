@@ -5,13 +5,14 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Meshing.Algorithm
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Tools;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Meshing.Algorithm
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
-    using TriangleNet.Tools;
 
     /// <summary>
     /// Builds a delaunay triangulation using the sweepline algorithm.

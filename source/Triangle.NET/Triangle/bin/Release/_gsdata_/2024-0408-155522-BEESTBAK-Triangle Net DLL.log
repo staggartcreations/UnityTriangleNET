@@ -1,0 +1,8 @@
+2024-04-08 15:55:23: -- Analysis Started by On File Change, After Delay
+2024-04-08 15:55:23: Changes: 3, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 7
+2024-04-08 15:55:23: Left to Right: Copy File: 2 Delete File: 1 
+2024-04-08 15:55:23: == Sync Started by On File Change, After Delay
+2024-04-08 15:55:23: Delete File D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.dll.meta
+2024-04-08 15:55:23: Create Folder D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/nl
+2024-04-08 15:55:23: Copy New 'D:/Git/UnityTriangleNET/source/Triangle.NET/Triangle/bin/Release/Triangle.pdb' -> 'D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.pdb' (507,392)
+2024-04-08 15:55:23: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 3, Errors: 0

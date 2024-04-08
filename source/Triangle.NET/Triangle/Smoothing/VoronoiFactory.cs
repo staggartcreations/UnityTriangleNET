@@ -1,9 +1,10 @@
 ﻿
-namespace TriangleNet.Smoothing
+using System;
+using sc.trianglenet.Topology.DCEL;
+using sc.trianglenet.Voronoi;
+
+namespace sc.trianglenet.Smoothing
 {
-    using System;
-    using TriangleNet.Topology.DCEL;
-    using TriangleNet.Voronoi;
 
     /// <summary>
     /// Factory which re-uses objects in the smoothing loop to enhance performance.

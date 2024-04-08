@@ -1,8 +1,7 @@
-﻿
-namespace TriangleNet.Voronoi
+﻿using sc.trianglenet.Topology.DCEL;
+
+namespace sc.trianglenet.Voronoi
 {
-    using System;
-    using TriangleNet.Topology.DCEL;
 
     /// <summary>
     /// Default factory for Voronoi / DCEL mesh objects.

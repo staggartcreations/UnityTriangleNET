@@ -4,10 +4,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Geometry
+using System;
+using System.Collections.Generic;
+
+namespace sc.trianglenet.Geometry
 {
-    using System;
-    using System.Collections.Generic;
 
     /// <summary>
     /// A polygon represented as a planar straight line graph.

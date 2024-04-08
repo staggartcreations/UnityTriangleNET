@@ -4,11 +4,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using System;
+
+namespace sc.trianglenet
 {
-    using System;
-    using TriangleNet.Meshing;
-    using TriangleNet.Meshing.Algorithm;
 
     /// <summary>
     /// Configure advanced aspects of the library.

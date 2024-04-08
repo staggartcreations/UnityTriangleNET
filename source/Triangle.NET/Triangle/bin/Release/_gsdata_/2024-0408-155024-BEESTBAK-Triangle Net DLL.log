@@ -1,0 +1,7 @@
+2024-04-08 15:50:25: == Sync Started by User Command
+2024-04-08 15:50:25: Delete File D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/nl.meta
+2024-04-08 15:50:25: Delete File D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.dll.meta
+2024-04-08 15:50:25: Delete File D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.pdb.meta
+2024-04-08 15:50:25: Copy Over 'D:/Git/UnityTriangleNET/source/Triangle.NET/Triangle/bin/Release/Triangle.dll' -> 'D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.dll' (190,464)
+2024-04-08 15:50:25: Copy Over 'D:/Git/UnityTriangleNET/source/Triangle.NET/Triangle/bin/Release/Triangle.pdb' -> 'D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.pdb' (507,392)
+2024-04-08 15:50:25: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 5, Errors: 0

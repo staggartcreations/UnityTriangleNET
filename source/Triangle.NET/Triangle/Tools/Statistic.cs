@@ -5,11 +5,12 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Tools
+using System;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Tools
 {
-    using System;
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Gather mesh statistics.

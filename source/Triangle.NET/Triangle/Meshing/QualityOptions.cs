@@ -1,8 +1,9 @@
 ﻿
-namespace TriangleNet.Meshing
+using System;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Meshing
 {
-    using System;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Mesh constraint options for quality triangulation.

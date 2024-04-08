@@ -4,12 +4,13 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Voronoi.Legacy
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Voronoi.Legacy
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// The Bounded Voronoi Diagram is the dual of a PSLG triangulation.

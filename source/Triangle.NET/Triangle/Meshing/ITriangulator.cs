@@ -4,10 +4,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Meshing
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Meshing
 {
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Interface for point set triangulation.

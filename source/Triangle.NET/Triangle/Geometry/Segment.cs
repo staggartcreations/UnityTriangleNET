@@ -4,9 +4,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Geometry
+using System;
+
+namespace sc.trianglenet.Geometry
 {
-    using System;
 
     /// <summary>
     /// Represents a straight line segment in 2D space.

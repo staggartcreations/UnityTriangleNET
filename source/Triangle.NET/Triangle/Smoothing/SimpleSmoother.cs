@@ -4,12 +4,13 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Smoothing
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Meshing;
+using sc.trianglenet.Topology.DCEL;
+using sc.trianglenet.Voronoi;
+
+namespace sc.trianglenet.Smoothing
 {
-    using TriangleNet.Geometry;
-    using TriangleNet.Meshing;
-    using TriangleNet.Topology.DCEL;
-    using TriangleNet.Voronoi;
 
     /// <summary>
     /// Simple mesh smoother implementation.

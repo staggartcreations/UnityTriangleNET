@@ -5,10 +5,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Geometry
+using System;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Geometry
 {
-    using System;
-    using TriangleNet.Topology;
 
     /// <summary>
     /// The vertex data structure.

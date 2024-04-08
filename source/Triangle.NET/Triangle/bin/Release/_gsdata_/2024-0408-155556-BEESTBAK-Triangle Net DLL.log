@@ -1,0 +1,8 @@
+2024-04-08 15:55:57: -- Analysis Started by On File Change Incremental
+2024-04-08 15:55:57: Changes: 3, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 7
+2024-04-08 15:55:57: Left to Right: Delete File: 3 
+2024-04-08 15:55:57: == Sync Started by On File Change Incremental
+2024-04-08 15:55:57: Delete File D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/nl.meta
+2024-04-08 15:55:57: Delete File D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.dll.meta
+2024-04-08 15:55:57: Delete File D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.pdb.meta
+2024-04-08 15:55:57: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 3, Errors: 0

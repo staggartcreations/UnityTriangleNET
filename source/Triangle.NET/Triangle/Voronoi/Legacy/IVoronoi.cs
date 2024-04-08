@@ -4,10 +4,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Voronoi.Legacy
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Voronoi.Legacy
 {
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Voronoi diagram interface.

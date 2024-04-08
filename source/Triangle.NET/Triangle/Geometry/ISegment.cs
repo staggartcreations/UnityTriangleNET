@@ -4,7 +4,7 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Geometry
+namespace sc.trianglenet.Geometry
 {
     /// <summary>
     /// Interface for segment geometry.

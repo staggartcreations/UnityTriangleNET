@@ -5,11 +5,12 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using System;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Tools;
+
+namespace sc.trianglenet
 {
-    using System;
-    using TriangleNet.Geometry;
-    using TriangleNet.Tools;
 
     /// <summary>
     /// Adaptive exact arithmetic geometric predicates.

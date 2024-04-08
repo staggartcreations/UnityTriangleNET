@@ -1,0 +1,12 @@
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Debug\Triangle.dll
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Debug\Triangle.pdb
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Debug\mscorlib.dll
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Debug\nl\mscorlib.resources.dll
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Debug\normidna.nlp
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Debug\normnfc.nlp
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Debug\normnfd.nlp
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Debug\normnfkc.nlp
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\bin\Debug\normnfkd.nlp
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\obj\Debug\Triangle.dll
+D:\Git\UnityTriangleNET\source\Triangle.NET\Triangle\obj\Debug\Triangle.pdb

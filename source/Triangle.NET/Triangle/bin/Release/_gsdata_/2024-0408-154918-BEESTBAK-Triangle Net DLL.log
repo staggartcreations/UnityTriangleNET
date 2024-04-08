@@ -1,0 +1,5 @@
+2024-04-08 15:49:23: == Sync Started by User Command
+2024-04-08 15:49:23: Create Folder D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/nl
+2024-04-08 15:49:23: Copy New 'D:/Git/UnityTriangleNET/source/Triangle.NET/Triangle/bin/Release/Triangle.dll' -> 'D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.dll' (190,464)
+2024-04-08 15:49:23: Copy New 'D:/Git/UnityTriangleNET/source/Triangle.NET/Triangle/bin/Release/Triangle.pdb' -> 'D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.pdb' (507,392)
+2024-04-08 15:49:23: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 3, Errors: 0

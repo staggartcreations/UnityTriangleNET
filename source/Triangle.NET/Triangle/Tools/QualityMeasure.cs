@@ -5,10 +5,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Tools
+using System;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Tools
 {
-    using System;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Provides mesh quality information.

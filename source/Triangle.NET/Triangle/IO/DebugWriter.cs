@@ -4,15 +4,16 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.IO
+using System;
+using System.Globalization;
+using System.IO;
+using System.IO.Compression;
+using System.Text;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.IO
 {
-    using System;
-    using System.Globalization;
-    using System.IO;
-    using System.IO.Compression;
-    using System.Text;
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Writes a the current mesh into a text file.

@@ -5,17 +5,19 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Meshing
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using TriangleNet.Geometry;
-    using TriangleNet.Topology;
-    using TriangleNet.Topology.DCEL;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+using sc.trianglenet.Topology.DCEL;
+using Vertex = sc.trianglenet.Topology.DCEL.Vertex;
 
-    using HVertex = TriangleNet.Topology.DCEL.Vertex;
-    using TVertex = TriangleNet.Geometry.Vertex;
+namespace sc.trianglenet.Meshing
+{
+
+    using HVertex = Vertex;
+    using TVertex = Geometry.Vertex;
 
     /// <summary>
     /// The Converter class provides methods for mesh reconstruction and conversion.
@@ -383,7 +385,7 @@ namespace TriangleNet.Meshing
             }
 
             Otri tri = default(Otri), neighbor = default(Otri);
-            TriangleNet.Geometry.Vertex org, dest;
+            TVertex org, dest;
 
             int id, nid, count = mesh.triangles.Count;
 

@@ -5,7 +5,7 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+namespace sc.trianglenet
 {
     /// <summary>
     /// The type of the mesh vertex.

@@ -4,10 +4,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.IO
+using System.IO;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.IO
 {
-    using System.IO;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Interface for geometry input.

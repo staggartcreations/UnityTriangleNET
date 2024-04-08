@@ -4,13 +4,14 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Meshing
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.IO;
+using sc.trianglenet.Meshing.Algorithm;
+
+namespace sc.trianglenet.Meshing
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
-    using TriangleNet.IO;
-    using TriangleNet.Meshing.Algorithm;
 
     /// <summary>
     /// Create meshes of point sets or polygons.

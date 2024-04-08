@@ -4,9 +4,8 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Geometry
+namespace sc.trianglenet.Geometry
 {
-    using TriangleNet.Topology;
 
     /// <summary>
     /// Triangle interface.

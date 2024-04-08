@@ -4,7 +4,7 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.IO
+namespace sc.trianglenet.IO
 {
     public interface IFileFormat
     {

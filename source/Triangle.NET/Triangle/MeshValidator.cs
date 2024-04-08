@@ -5,11 +5,12 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using System;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet
 {
-    using System;
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
 
     public static class MeshValidator
     {

@@ -4,11 +4,12 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Tools
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Tools
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
 
     public static class PolygonValidator
     {

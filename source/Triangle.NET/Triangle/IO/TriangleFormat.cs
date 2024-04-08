@@ -4,13 +4,14 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.IO
+using System;
+using System.Collections.Generic;
+using System.IO;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Meshing;
+
+namespace sc.trianglenet.IO
 {
-    using System;
-    using System.Collections.Generic;
-    using System.IO;
-    using TriangleNet.Geometry;
-    using TriangleNet.Meshing;
 
     /// <summary>
     /// Implements geometry and mesh file formats of the the original Triangle code.

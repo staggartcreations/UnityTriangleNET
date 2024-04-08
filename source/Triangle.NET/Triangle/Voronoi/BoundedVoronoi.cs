@@ -4,15 +4,15 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Voronoi
-{
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
-    using TriangleNet.Tools;
-    using TriangleNet.Topology.DCEL;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Tools;
+using sc.trianglenet.Topology.DCEL;
+using Vertex = sc.trianglenet.Topology.DCEL.Vertex;
 
-    using HVertex = TriangleNet.Topology.DCEL.Vertex;
-    using TVertex = TriangleNet.Geometry.Vertex;
+namespace sc.trianglenet.Voronoi
+{
+
+    using TVertex = Geometry.Vertex;
 
     public class BoundedVoronoi : VoronoiBase
     {

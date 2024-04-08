@@ -5,11 +5,12 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Topology;
 
     /// <summary>
     /// Used for triangle sampling in the <see cref="TriangleLocator"/> class.

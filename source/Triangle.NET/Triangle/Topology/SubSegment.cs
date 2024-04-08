@@ -5,10 +5,11 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Topology
+using System;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Topology
 {
-    using System;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// The subsegment data structure.

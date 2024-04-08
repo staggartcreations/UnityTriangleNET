@@ -1,7 +1,8 @@
 ﻿
-namespace TriangleNet.Voronoi
+using sc.trianglenet.Topology.DCEL;
+
+namespace sc.trianglenet.Voronoi
 {
-    using TriangleNet.Topology.DCEL;
 
     public interface IVoronoiFactory
     {

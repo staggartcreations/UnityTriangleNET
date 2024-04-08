@@ -5,11 +5,12 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Meshing.Iterators
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Meshing.Iterators
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Topology;
 
     /// <summary>
     /// Iterates the region a given triangle belongs to and applies an action

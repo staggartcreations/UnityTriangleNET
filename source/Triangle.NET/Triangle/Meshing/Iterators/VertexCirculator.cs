@@ -1,9 +1,10 @@
 ﻿
-namespace TriangleNet.Meshing.Iterators
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Meshing.Iterators
 {
-    using System.Collections.Generic;
-    using TriangleNet.Geometry;
-    using TriangleNet.Topology;
 
     public class VertexCirculator
     {

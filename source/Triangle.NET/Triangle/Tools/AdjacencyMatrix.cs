@@ -5,9 +5,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Tools
+using System;
+
+namespace sc.trianglenet.Tools
 {
-    using System;
 
     /// <summary>
     /// The adjacency matrix of the mesh.

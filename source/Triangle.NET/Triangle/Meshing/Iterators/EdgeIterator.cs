@@ -4,11 +4,12 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Meshing.Iterators
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+using sc.trianglenet.Topology;
+
+namespace sc.trianglenet.Meshing.Iterators
 {
-    using System.Collections.Generic;
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Enumerates the edges of a triangulation.

@@ -1,0 +1,7 @@
+2024-04-08 16:02:03: -- Analysis Started by On File Change, After Delay
+2024-04-08 16:02:03: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 8
+2024-04-08 16:02:03: Left to Right: Delete File: 2 
+2024-04-08 16:02:03: == Sync Started by On File Change, After Delay
+2024-04-08 16:02:03: Delete File D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Readme.txt
+2024-04-08 16:02:03: Delete File D:/Cloud/AssetStore/Spline Mesher/Assets/ThirdParty/TriangleNet/Triangle.dll.meta
+2024-04-08 16:02:03: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 2, Errors: 0

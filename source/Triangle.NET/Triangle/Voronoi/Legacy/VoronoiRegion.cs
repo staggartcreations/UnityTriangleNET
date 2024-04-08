@@ -4,12 +4,12 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Voronoi.Legacy
+using System;
+using System.Collections.Generic;
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet.Voronoi.Legacy
 {
-    using System;
-    using System.Collections.Generic;
-    using TriangleNet.Topology;
-    using TriangleNet.Geometry;
 
     /// <summary>
     /// Represents a region in the Voronoi diagram.

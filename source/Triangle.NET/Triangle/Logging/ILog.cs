@@ -4,9 +4,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet.Logging
+using System.Collections.Generic;
+
+namespace sc.trianglenet.Logging
 {
-    using System.Collections.Generic;
 
     public enum LogLevel
     {

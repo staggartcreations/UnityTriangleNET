@@ -4,9 +4,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace TriangleNet
+using sc.trianglenet.Geometry;
+
+namespace sc.trianglenet
 {
-    using TriangleNet.Geometry;
 
     public interface IPredicates
     {
